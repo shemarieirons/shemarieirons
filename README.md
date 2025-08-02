@@ -89,7 +89,7 @@ Outside of coding, you’ll find me:
 ---
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://github.com/shemarieirons)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/shemariei/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:shemarieirons@gmail.com)
 
 ---
