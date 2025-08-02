@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 💡 **Passionate about bridging technology and medicine**
 
 ## ✨ About Me
-I'm dedicated to exploring how computational tools can improve outcomes. From building a medical records database in Python and SQL to creating web apps with HTML, CSS, and JavaScript, I love applying technology to solve real-world problems.  
+I'm dedicated to exploring how computational tools can improve outcomes. From building a medical records database in Python and SQL to creating web apps with HTML, CSS, and JavaScript, I love applying technology to solve real-world problems. 
+
+Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+
 <br>
 As a young Black woman in STEM, I'm committed to creating inclusive spaces and empowering underrepresented voices in tech.
 
@@ -51,15 +54,15 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 ---
 
 ### ✨ Rock-Paper-Scissors Web Game
-**Description:** An interactive game with user input, simple animations, and win tracking.  
-**Tools:** JavaScript, HTML, CSS  
-[🔗 View Repository]([(https://github.com/shemarieirons/Rock-Paper-Scissors)])
+**Description:** A comprehensive payroll management system.  
+**Tools:** C++
+[🔗 View Repository](https://github.com/shemarieirons/PayrollManagementSystem)
 
 
 ---
 
 ## 🌱 What I’m Learning
-- Computational biology fundamentals
+- Machine Learning
 - Data visualization with Python
 - Cloud basics (AWS, Azure)
 
@@ -68,7 +71,7 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 ## 🏆 Awards & Recognition
 - Featured on TVJ for academic excellence
 - GPA 4.0 Award Recipient
-- Active Member: SWE, Engineers Without Borders, Caribbean Student Association
+- Active Member: Society of Women Engineers, Engineers Without Borders, Colorstack
 
 ---
 
