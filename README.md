@@ -46,6 +46,11 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 
 ## 🚀 Featured Projects
 
+### 🧠 Machine Learning Foundations Project
+**Description:** Evaluated model performance using metrics such as F1-score and ROC AUC, and improved results through hyperparameter tuning.  
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib
+[🔗 View Repository](https://github.com/shemarieirons/BTTPortfolio)
+
 ### 🩺 Medical Records Database
 **Description:** Built a relational database to track patient visits, diagnoses, and treatments.  
 **Tools:** Python, SQL  
