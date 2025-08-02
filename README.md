@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey everyone, I'm Shemarie 👋
 
 <!--
 **shemarieirons/shemarieirons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/389fc6d4-4cfa-44ee-9f11-3565e89730f4" />
