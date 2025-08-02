@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💡 **Passionate about bridging technology and medicine**
 
 ## ✨ About Me
-I'm dedicated to exploring how computational tools can improve healthcare access and outcomes. From building a medical records database in Python and SQL to creating web apps with HTML, CSS, and JavaScript, I love applying technology to solve real-world problems.  
+I'm dedicated to exploring how computational tools can improve outcomes. From building a medical records database in Python and SQL to creating web apps with HTML, CSS, and JavaScript, I love applying technology to solve real-world problems.  
 <br>
 As a young Black woman in STEM, I'm committed to creating inclusive spaces and empowering underrepresented voices in tech.
 
