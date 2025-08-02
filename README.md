@@ -53,12 +53,8 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 ### ✨ Rock-Paper-Scissors Web Game
 **Description:** An interactive game with user input, simple animations, and win tracking.  
 **Tools:** JavaScript, HTML, CSS  
-[🔗 View Repository](#)
+[🔗 View Repository]([(https://github.com/shemarieirons/Rock-Paper-Scissors)])
 
----
-
-### 🧠 [Optional AI Studio Project]
-*(Pin this when you finish!)*
 
 ---
 
@@ -90,8 +86,8 @@ Outside of coding, you’ll find me:
 ---
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://github.com/shemarieirons)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:shemarieirons@gmail.com)
 
 ---
 
