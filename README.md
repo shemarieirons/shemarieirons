@@ -84,7 +84,7 @@ Outside of coding, you’ll find me:
 ---
 
 ## 📈 GitHub Stats
-![Shemarie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Shemarie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemarieirons&show_icons=true&theme=default)
 
 ---
 
