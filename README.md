@@ -97,8 +97,10 @@ Outside of coding, you’ll find me:
 ---
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-shemarieirons@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shemarieirons@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shemarieirons-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shemarieirons/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:shemarieirons@gmail.com) shemarieirons@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shemarieirons/) https://www.linkedin.com/in/shemarieirons/
+
 ---
 
 ✨ *Let’s connect and build something impactful together!*
