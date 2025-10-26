@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 **Sophomore at Howard University**  
+🎓 **Junior at Howard University**  
 💻 **Computer Science Major, Biology Minor**  
 💡 **Passionate about bridging technology and medicine**
 
