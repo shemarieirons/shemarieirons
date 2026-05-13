@@ -46,13 +46,15 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 **Description:** End-to-end full-stack academic coordination platform with secure authentication, dynamic role-based UI, and optimized SQL queries — reducing execution time by 60% during performance testing.
 **Tools:** React Native (Expo), TypeScript, Supabase, PostgreSQL
 
+[🔗 View Repository](https://github.com/shemarieirons/class-buddy)
+
 ---
 
 ### 🤖 Allstate ML Pipeline — Break Through Tech x Allstate
 **Description:** Built predictive models on 188,318 records with 132 features, reducing Mean Absolute Error by 41.5% using LightGBM with log1p target transformation to forecast high-variance insurance claim costs.
 **Tools:** Python, SQL, Scikit-learn, LightGBM
 
-[🔗 View Repository](https://github.com/shemarieirons/BTTPortfolio)
+[🔗 View Repository](https://github.com/shemarieirons/allstate_1b)
 
 ---
 
@@ -60,11 +62,15 @@ As a young Black woman in STEM, I'm committed to creating inclusive spaces and e
 **Description:** Multi-user HR desktop app with role-based access control, clock-in/out workflows, manager approvals, and offline-first cloud sync with bidirectional conflict resolution across local and networked setups.
 **Tools:** Python, SQLite, PostgreSQL, Supabase
 
+[🔗 View Repository](https://github.com/shemarieirons/irons-workforce-tracker)
+
 ---
 
 ### 🏠 Airbnb Instant Bookability Classifier
 **Description:** Improved ROC AUC from 0.67 to 0.82 on 28,022 real-world listings via Random Forest training, feature engineering, imbalance handling, and cross-validated hyperparameter tuning.
 **Tools:** Python, Scikit-learn
+
+[🔗 View Repository](https://github.com/shemarieirons/BTTPortfolio)
 
 ---
 
