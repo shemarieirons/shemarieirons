@@ -121,7 +121,7 @@ Outside of coding, you'll find me:
 ---
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:shemarieirons@gmail.com) shemarieirons@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:shemarieirons@gmail.com) shemarieirons@gmail.com <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shemariei/) linkedin.com/in/shemariei
 
 ---
